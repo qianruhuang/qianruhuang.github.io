@@ -1,7 +1,7 @@
 ---
-title: "MICRO FILM 1"
+title: "MICRO FILM"
 excerpt: "Female Students Majoring in Film Art <br/><img src='/images/500x300.png'>"
-
+collection: portfolio
 --- 
 
 This film was directed by Qianru Huang.
