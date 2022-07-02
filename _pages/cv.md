@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[English Version](http://qianruhuang.github.io/files/Resume_E.pages)
+[English Version](http://qianruhuang.github.io/files/Resume_E.pdf)
 
-[Chinese Version](http://qianruhuang.github.io/files/Resume_C.pages)
+[Chinese Version](http://qianruhuang.github.io/files/Resume_C.pdf)
 
