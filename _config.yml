@@ -83,7 +83,7 @@ author:
   name             : "Qianru Huang"
   avatar           : "profile.png"
   bio              : "Personal Page"
-  location         : #"Location"
+  location         : "Hangzhou"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "academicpages"
+  github           : #"academicpages"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/%E5%80%A9%E5%A6%82-%E9%BB%84-748136156/"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
