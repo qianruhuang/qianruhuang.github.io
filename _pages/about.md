@@ -12,14 +12,42 @@ Biography
 ======
 I’m a third year M.S. student in Communication department at Zhejiang University, China. I also earned my Bachelor’s degree from Zhejiang University. My research interests include Popular Culture..... 
 
-Research Experience
+Education
 ======
-1.Bitcoin + Communication
+* B.S. in Zhejiang University, 2020
+* M.S. in Zhejiang University, 2023 
 
+Research experience
+======
+* Summer 2019: Research Assistant
+  * Zhejiang University
+  * Duties included: Tagging issues
+  * Supervisor: Professor Guangsheng haung
+
+* Fall 2015: Research Assistant
+  * Github University
+  * Duties included: Merging pull requests
+  * Supervisor: Professor Hub
+  
+Skills
+======
+* Skill 1
+* Skill 2
+* Skill 3
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
 Teaching
 ======
-1. TA
-
-Intership
+  <ul>{% for post in site.teaching %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+  
+Internship
 ======
-The main configuration file for the site is in the base directory in [_config.yml]
+  
+
