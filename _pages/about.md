@@ -19,33 +19,43 @@ Education
 
 Research experience
 ======
-* Summer 2019: Research Assistant
+* Summer 2019-Summer 2020: Research Assistant
   * Zhejiang University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Guangsheng haung
+  * Duties included: 
+  * Supervisor: Professor Vincent Huang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Summer 2020: Research Assistant
+  * University of Georgia (Online)
+  * Duties included: Tagging issues
+  * Supervisor: Professor Yilang Peng
+ 
+* Summer 2020-Summer 2023: Research Assistant
+  * Zhejiang University
+  * Duties included: Graduation Project
+  * Supervisor: Professor Yupei Zhao
+
   
 Skills
 ======
-* Skill 1
-* Skill 2
-* Skill 3
+* Software: Python, Nvivo, PS/PR
+* Sports: Zhejiang University Women's Basketball Team Member
+
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Chinese Jounal Paper
+  The foundation and potential of blockchain technology to intervene in audio-visual communication platform: Case Study on Bilibili Platform (Published)
+  [Download paper here](http://academicpages.github.io/files/paper1.pdf)
+* Conference Paper
+  Title (Under Review)
+  [Download paper here](http://academicpages.github.io/files/paper2.pdf)
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Summer 2020-Summer 2023: Teaching Assistant
+  * Zhejiang University
+  * Duties included: 
+  * Course Name: 
   
 Internship
 ======
