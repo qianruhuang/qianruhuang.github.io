@@ -43,12 +43,12 @@ Skills
 
 Publications
 ======
-* Chinese Jounal Paper
+* Chinese Jounal Paper<br/>
   The foundation and potential of blockchain technology to intervene in audio-visual communication platform: Case Study on Bilibili Platform (Published)
-  [Download paper here](http://academicpages.github.io/files/paper1.pdf)
-* Conference Paper
+  [Download paper here](http://qianruhuang.github.io/files/paper1.pdf)
+* Conference Paper<br/>
   Title (Under Review)
-  [Download paper here](http://academicpages.github.io/files/paper2.pdf)
+  [Download paper here](http://qianruhuang.github.io/files/paper2.pdf)
   
 Teaching
 ======
