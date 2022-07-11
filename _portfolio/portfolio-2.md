@@ -1,6 +1,6 @@
 ---
 title: "Documentary"
-excerpt: "Title:**Loading...** <br/><img src='/images/document1.png'>"
+excerpt: "Title: **Loading...** <br/><img src='/images/document1.png'>"
 collection: portfolio
 ---
 
@@ -8,6 +8,6 @@ collection: portfolio
 
 [**Demo here**](https://www.thepaper.cn/newsDetail_forward_8994869)
 
-![](/images/document1.png)
-![](/images/document2.png)
-![](/images/document3.png)
+![](qianruhuang.github.io/images/document1.png)
+![](qianruhuang.github.io/images/document2.png)
+![](qianruhuang.github.io/images/document3.png)
