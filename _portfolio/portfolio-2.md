@@ -8,6 +8,6 @@ collection: portfolio
 
 [**Demo here**](https://www.thepaper.cn/newsDetail_forward_8994869)
 
-![](qianruhuang.github.io/images/document1.png)
-![](qianruhuang.github.io/images/document2.png)
-![](qianruhuang.github.io/images/document3.png)
+<img1 src='/images/document1.png'>
+<img2 src='/images/document2.png'>
+<img3 src='/images/document3.png'>
