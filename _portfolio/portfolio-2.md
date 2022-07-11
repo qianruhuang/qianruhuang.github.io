@@ -8,4 +8,6 @@ collection: portfolio
 
 [**Demo here**](https://www.thepaper.cn/newsDetail_forward_8994869)
 
-<img src='/images/document1.png'><br/><img src='/images/document2.png'><br/><img src='/images/document3.png'>
+![](/images/document1.png)
+![](/images/document2.png)
+![](/images/document3.png)
