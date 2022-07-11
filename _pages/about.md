@@ -10,7 +10,7 @@ redirect_from:
 
 Biography
 ======
-I’m a third year M.S. student in Communication department at Zhejiang University, China. I also earned my Bachelor’s degree from Zhejiang University. My research interests include Popular Culture..... 
+I’m a third year M.A. student in Communication department at Zhejiang University, China. I also earned my Bachelor’s degree from Zhejiang University. My research interests include Popular Culture..... 
 
 Education
 ======
@@ -21,18 +21,18 @@ Research experience
 ======
 * Summer 2019-Summer 2020: Research Assistant
   * Zhejiang University
-  * Duties included: 
-  * Supervisor: Professor Vincent Huang
+  * Duties included: Graduation Project
+  * Supervisor: Professor <[Vincent Huang](https://person.zju.edu.cn/hguangsh)>
 
 * Summer 2020: Research Assistant
   * University of Georgia (Online)
   * Duties included: Tagging issues
-  * Supervisor: Professor Yilang Peng
+  * Supervisor: Professor <[Yilang Peng](https://yilangpeng.com/)>
  
 * Summer 2020-Summer 2023: Research Assistant
   * Zhejiang University
   * Duties included: Graduation Project
-  * Supervisor: Professor Yupei Zhao
+  * Supervisor: Professor <[Yupei Zhao](https://person.zju.edu.cn/en/yupeizhao)>
 
   
 Skills
