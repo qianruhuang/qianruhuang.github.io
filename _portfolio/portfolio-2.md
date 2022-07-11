@@ -8,6 +8,6 @@ collection: portfolio
 
 [**Demo here**](https://www.thepaper.cn/newsDetail_forward_8994869)
 
-<img1 src='/images/document1.png'>
-<img2 src='/images/document2.png'>
-<img3 src='/images/document3.png'>
+<img src='/images/document1.png'>
+<img src='/images/document2.png'>
+<img src='/images/document3.png'>
