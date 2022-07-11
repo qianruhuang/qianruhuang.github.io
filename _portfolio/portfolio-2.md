@@ -1,7 +1,13 @@
 ---
 title: "Documentary"
-excerpt: " fime name <br/><img src='/images/500x300.png'>"
+excerpt: "Title:**Loading...** <br/><img src='/images/document1.png'>"
 collection: portfolio
 ---
 
-This film was directed by Qianru Huang.
+*Qianru Huang was an executive director of this Documentary*
+
+[**Demo here**](https://www.thepaper.cn/newsDetail_forward_8994869)
+
+<img src='/images/document1.png'>
+<img src='/images/document2.png'>
+<img src='/images/document3.png'>
