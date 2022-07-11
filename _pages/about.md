@@ -22,17 +22,17 @@ Research experience
 * Summer 2019-Summer 2020: Research Assistant
   * Zhejiang University
   * Duties included: Graduation Project
-  * Supervisor: Professor <[Vincent Huang](https://person.zju.edu.cn/hguangsh)>
+  * Supervisor: Professor [Vincent Huang](https://person.zju.edu.cn/hguangsh)
 
 * Summer 2020: Research Assistant
   * University of Georgia (Online)
   * Duties included: Tagging issues
-  * Supervisor: Professor <[Yilang Peng](https://yilangpeng.com/)>
+  * Supervisor: Professor [Yilang Peng](https://yilangpeng.com/)
  
 * Summer 2020-Summer 2023: Research Assistant
   * Zhejiang University
   * Duties included: Graduation Project
-  * Supervisor: Professor <[Yupei Zhao](https://person.zju.edu.cn/en/yupeizhao)>
+  * Supervisor: Professor [Yupei Zhao](https://person.zju.edu.cn/en/yupeizhao)
 
   
 Skills
