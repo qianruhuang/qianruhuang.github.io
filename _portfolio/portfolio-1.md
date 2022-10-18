@@ -1,6 +1,6 @@
 ---
 title: "Micro Film"
-excerpt: "Title: <img src='/images/film1.png' width='160'> Female Students Majoring in Film Art "
+excerpt: "<img src='/images/film1.png' width='160'> Female Students Majoring in Film Art "
 collection: portfolio
 --- 
 
