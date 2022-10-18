@@ -1,6 +1,6 @@
 ---
 title: "Documentary"
-excerpt: "Title: **Loading...** <br/><img src='/images/document1.png'>"
+excerpt: " <img src='/images/document1.png' width='160'> ** Loading... ** "
 collection: portfolio
 ---
 
