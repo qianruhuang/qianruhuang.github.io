@@ -1,6 +1,6 @@
 ---
-title: "补充标题"
-excerpt: "<img src='/images/f-3.png' width='160'> *补充说明* "
+title: "Teaching Assistant"
+excerpt: "<img src='/images/f-3.png' width='160'> "
 collection: portfolio
 --- 
 
