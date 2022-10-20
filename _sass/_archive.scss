@@ -90,6 +90,8 @@
    ========================================================================== */
 
 .list__item {
+
+  border-bottom: 1px solid #bfbfbf2e;
   @include breakpoint($medium) {
     padding-right: $right-sidebar-width-narrow;
   }
