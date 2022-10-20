@@ -1,6 +1,6 @@
 ---
 title: "The 14th "Lancang-Mekong Youth Friendship Exchange Program" was held"
-excerpt: "<img src='/images/f-4.jpg' width='160'> Female Students Majoring in Film Art "
+excerpt: "<img src='/images/f-4.jpg' width='160'>"
 collection: portfolio
 --- 
 
