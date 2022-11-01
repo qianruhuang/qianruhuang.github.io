@@ -8,10 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-
-    Email: carolqianruhuang@zju.edu.cn
-    Phone: + (86) 181-0654-7185
-    GitHub: qianruhuang.github.io
+``` 
+Email: carolqianruhuang@zju.edu.cn
+Phone: + (86) 181-0654-7185
+GitHub: qianruhuang.github.io 
+```
 
 ## EDUCATION
 
