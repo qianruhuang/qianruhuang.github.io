@@ -122,6 +122,7 @@ animation films; Participated in the viewing process of film content and compile
 ## TEACHING EXPERIENCE 
 
 ### Course: Media Convergence, ZJU 
+
 *Summer 2019 & Spring 2021*
 
 Instructor: Yupei Zhao & Lu Wei; Instruction Language: English; Class Size 76
@@ -131,6 +132,7 @@ Instructor: Yupei Zhao & Lu Wei; Instruction Language: English; Class Size 76
 
 
 ## PUBLICATIONS & CONFERENCES
+
 - Huang, Q. R. , & Zhao, Y. “Sixology” (LiuXue): Internet Memes and the Construction of Collective Identity. (2022, under review) 
 - Huang, Q. R. , & Huang, G. Cultural Practices in Platform Economy: Two E-Commerce Villages from Yiwu City, Zhejiang Province. (2022, under review) 
 - Huang, Q. R., & Zhao, Y. Digital Literacy and Interdisciplinarity in Digital Research: Lessons from a Comparative Analysis of China and the UK. (2022, under review) 
@@ -138,12 +140,19 @@ Instructor: Yupei Zhao & Lu Wei; Instruction Language: English; Class Size 76
 - Zhao, Y., & Huang, Q. R. (2022, July 14). Reflective Study of Chinese and Foreign Public Communication: the Exotic Imagination of “Chinese Carnival” on Dietfurt. The 4th China Academic Conference on Public Communication, Yunnan, China
 
 ## EXTRACURRICULAR ACTIVITIES
+
 ### Youth Representative, The 14th Lancang-Mekong World Youth Forum, Bangkok, Thailand 
+
 *March 2019 – March 2019* 
+
 - Delivered keynote speech representing China in the forum with visitors from six southeast Asian countries 
+
 ### Point Guard, Zhejiang University Women’s Basketball Varsity Hangzhou, China 
+
 *January 2016 – October 2018*
+
 - Won the first prize for the women’s basketball group in the 15th Chinese University Basketball Association (CUBA) 
+
 ### Editor, Radio and Television Station, ZJU, Hangzhou, China 
 *September 2016 – April 2018*
 - Organized editing of the official media account of Zhejiang University, with the highest article hitting 100,000+ views.
@@ -158,15 +167,18 @@ Instructor: Yupei Zhao & Lu Wei; Instruction Language: English; Class Size 76
 ## OTHER SKILLS
 
 ### **Technical**: NVivo, Python, R, SPSS, Adobe Creative Suite (Photoshop, Premiere, After Effect) 
+
 ### **Course Certificates**:
 - The Data Science Specilization (Johns Hopkins University, Coursera) 
 - Making Sense of the News: News Literacy for Digital Citizens (Coursera) 
 - Social Media and Built Environment Course (Harvard University) 
-### **Summer Schools**
 
+### **Summer Schools**
 - Media and Communication Course (ZJU) 
 - Communication Theory and Methods Course (ZJU, UW-Madison & University of Pennsylvania) 
+
 ### **Hobbies**: Photography, Filmmaking, Reading, Writing, Calligraphy, Jogging, Basketball, Tennis
+
 ### **Languages**: Chinese (Native), English (Fluent), Russian (B2 Certificate)
 
 
