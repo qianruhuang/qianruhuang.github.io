@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Qianru Huang(黄倩如)"
+title: "Qianru Huang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
