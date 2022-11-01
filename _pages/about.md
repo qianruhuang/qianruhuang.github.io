@@ -166,7 +166,8 @@ Instructor: Yupei Zhao & Lu Wei; Instruction Language: English; Class Size 76
 
 ## OTHER SKILLS
 
-### **Technical**: NVivo, Python, R, SPSS, Adobe Creative Suite (Photoshop, Premiere, After Effect) 
+### **Technical**:
+NVivo, Python, R, SPSS, Adobe Creative Suite (Photoshop, Premiere, After Effect) 
 
 ### **Course Certificates**:
 - The Data Science Specilization (Johns Hopkins University, Coursera) 
@@ -177,8 +178,10 @@ Instructor: Yupei Zhao & Lu Wei; Instruction Language: English; Class Size 76
 - Media and Communication Course (ZJU) 
 - Communication Theory and Methods Course (ZJU, UW-Madison & University of Pennsylvania) 
 
-### **Hobbies**: Photography, Filmmaking, Reading, Writing, Calligraphy, Jogging, Basketball, Tennis
+### **Hobbies**:
+Photography, Filmmaking, Reading, Writing, Calligraphy, Jogging, Basketball, Tennis
 
-### **Languages**: Chinese (Native), English (Fluent), Russian (B2 Certificate)
+### **Languages**:
+Chinese (Native), English (Fluent), Russian (B2 Certificate)
 
 
