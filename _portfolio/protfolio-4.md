@@ -4,4 +4,4 @@ excerpt: "<img src='/images/f-4.jpg' width='160'> Lancang-Mekong Youth Friendshi
 collection: portfolio
 --- 
 *Lancang-Mekong Youth Friendship Exchange Program*
-[**Visit here**](https://mp.weixin.qq.com/s/yy0Hs1WB3psKjFhe5v_53g)
+[**Visit here**](http://www.lmcchina.org/eng/2020-04/14/content_41450125.html)
