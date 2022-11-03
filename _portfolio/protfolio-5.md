@@ -1,6 +1,6 @@
 ---
-title: "Champion of the 15th Zhejiang University Games Basketball Competition"
-excerpt: "<img src='/images/basketball-sport.jpg' width='160'> Champion of the 15th Zhejiang University Games Basketball Competition"
+title: "Champion of women’s basketball group in the 15th Universiade of Zhejiang Province"
+excerpt: "<img src='/images/basketball-sport.jpg' width='160'> Champion of women’s basketball group in the 15th Universiade of Zhejiang Province"
 collection: portfolio
 --- 
 <img src='/images/basketball-sport.jpg'>
